@@ -1,0 +1,8 @@
+participant,3d_distracting,mode_understanding,mode_remember,mode_like,mode_watch_all,citizens_prefer,citizens_betterinformed,citizens_remember,citizens_factbased,citizens_legitimate,guides_flo,guides_gustavo,guides_useful,guides_trust,hood_modeoftransport,hood_community,hood_attractive
+participant1,moderately,moderately,moderately,moderately,very,agree,agree,neutral,agree,agree,moderately,moderately,slightly,slightly,Car,Neutral,Somewhat important
+participant10,slightly,very,moderately,very,very,neutral,agree,neutral,strongly_agree,disagree,slightly,slightly,very,slightly,Car,Somewhat important,Very important
+participant11,not_at_all,very,moderately,moderately,slightly,agree,agree,neutral,neutral,agree,slightly,not_at_all,slightly,slightly,Car,Somewhat important,Very important
+participant2,not_at_all,moderately,moderately,not_at_all,not_at_all,neutral,disagree,disagree,agree,disagree,not_at_all,not_at_all,slightly,moderately,Walking,Somewhat unimportant,Somewhat important
+participant3,not_at_all,moderately,slightly,moderately,moderately,agree,neutral,agree,neutral,agree,slightly,moderately,moderately,moderately,Car,Somewhat unimportant,Somewhat important
+participant8,not_at_all,extremely,extremely,extremely,very,agree,agree,agree,agree,strongly_agree,moderately,moderately,moderately,very,Bicycle,Very important,Very important
+participant9,not_at_all,moderately,slightly,moderately,slightly,agree,agree,neutral,neutral,neutral,not_at_all,not_at_all,slightly,slightly,Car,Not at all important,Very important

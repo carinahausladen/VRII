@@ -1,0 +1,61 @@
+participant,block,response,tag
+participant8,residents,"500 citizens were invited to give their opinions in a survey, including 35 local business owners. 40 people put together their ideas in a proposal notebook.",Introduction to the stakeholder groups
+participant8,traffic,"The road here was previously a busy junction, with cars moving quickly in all directions. This has been altered to include a dedicated cycle lane in both directions, as well as a speed limit reduction to 30km/h. This has improved traffic safety and reduced noise pollution.",Adding cycle lanes and cutting speed limits.
+participant8,greenery,"The roadside here was previously used for parking, with cars, such as the grey sedan, being left here for long periods. The side of the road parking has been replaced with flowerbeds and cycle racks to promote more cycling around the city.",Reducing dormant parking.
+participant8,canopy,"The open area of road here was previously a major reflector of heat, creating an urban oven. The plan is to reduce the asphalt coverage by planting over 150 trees and adding more vegetation to reduce road temperatures by around 8 degrees.",Reducing road temperature
+participant8,biodiversity,"This highlights the diversity in the proposed flora changes - with a mixture of ground cover, shrubs and trees to increase biodiversity, including providing a habitat for native butterflies.",Using varied flora types to increase biodiversity
+participant8,sponge,"Here, asphalt has been removed and replaced with an alternative paving that allows water from the fountain to be stored more efficiently.",Water conservation
+participant1,residents,"We are in Switzerland in some bar, a woman is standing and talking to the bar's customers, it looks like the waitresses are taking orders from the customers",ordering at the bar
+participant1,traffic,"Cars are driving on the bend, and cyclists and pedestrians appear, then a villa is shown",traffic
+participant1,greenery,"someone is walking along the sidewalk in the street, next to parked cars, looking at the buildings",walk through the city streets
+participant1,canopy,"a person is walking down the street, looks back, stands and watches what is happening on the street",observing the street
+participant1,biodiversity,there are no cars parked,observation
+participant1,sponge,"he is standing at a taxi stand, he is in another place waiting for a taxi",waiting for a taxi
+participant9,residents,500 residents involved in the project and 30 businesses. There was also 22 of something else. ,Outline of the project.
+participant9,traffic,The cars used to be very noisy and all you could hear. Now you can hear the tingling of bells and the whoosh of the bicycles as cars reduced to speed limit of 30kph. ,Noise levels
+participant9,greenery,70% of the urban roads were taken up with parking space. This sedan has been idle for 3 days and not benefitting the community. Now shrubs have been planted where there were parking spaces and racks to lock bikes away have been created.,Parking
+participant9,canopy,The heat of the asphalt meant temperatures rose by 8 degrees. ,Temperature
+participant9,biodiversity,"The planting of 3 different layers - the grass and flowers, the shrubs and finally the trees support  biodiversity where they can operate on different levels. This also benefits things like butterflies which can be seen flying around.",Biodiversity
+participant9,sponge,The solid asphalt means nowhere for the rain to go but now these sponge like bricks have been put in that will absorb the rain in levels 30 centimetres below the surface. This also means nutrients in the water are not lost.,Flooding
+participant3,residents,The video showed people sitting outside. It said that the views of 500 residents and 35 local businesses had been collected via surveys. 40 community members had joined a design workshop. All the information collected from the community was gathered into a recommendation notebook.,consultation
+participant3,traffic,"The video talked about the main avenue of the town, which was dominated by cars before the transformation. Afterwards, there was a 30 kph speed limit for cars, and a new bicycle lane to encourage cycling. More than 120 km of bicycle lanes were installed in the town.",changing transport
+participant3,greenery,"The third video described how almost 70% of the public space was taken up by parking. The redesign will reduce the space for vehicle parking, and it will be replaced by bike racks and greenery.",public_space
+participant3,canopy,"This video talked about the effect of large areas of asphalt which absorb and re-radiate heat in the summer, making the town unpleasantly hot. The re-design involves planting new trees which will provide shade and reduce the ground temperature by up to 8 C.",tree planting
+participant3,biodiversity,This video talks about using a layered system of planting to support biodiversity at different heights above the ground.,biodiversity
+participant3,sponge,"The last video talked about how large areas of asphalt absorb heat, and also contributed to flooding during heavy rain. The new redesigned road will have permeable tiles that allow water to flow into a special layer of gravel and soil to reduce the strain on drains during heavy rain.",flood prevention
+participant10,residents,"The changes of the city were possible thanks to both the residents and the business owners.
+There was a document, I don't recall its name though, used for common decisions.",residents
+participant10,traffic,"Before the transformation, there was a lot of traffic jam, many cars making noise and being absolute protagonists of the main avenue.
+After the transoformation, less cars than before drive through the main avenue, now instead there are many bicycle. Also, the speed limits have been introduced.",traffic
+participant10,greenery,"Before the change there were many veichles parked next to the sidewalk.
+Green spaces have been created in areas that were previously used for car parking.",parking
+participant10,canopy,"Where once there were only parked cars, now you can see cyclists and, more generally, a peaceful place with restricted access for vehicles.",calmer
+participant10,biodiversity,"Flowerbeds have been introduced, and as a result, native species have returned to the area (I can't remember the name of the butterfly, I think it was mentioned in latin)",flower
+participant10,sponge,"A system has been installed beneath the asphalt to reduce flooding caused by rain. If I’m not mistaken, it involves plants that can be seen through the manholes. I don’t remember how much water it’s able to absorb.",rain
+participant11,residents,"500 residents, 500 voices. Survey.
+40 people design workshops",500 people
+participant11,traffic,"150km bike lane
+30mph cars",Bikes
+participant11,greenery,"No more dormant parking. 
+Benches. Place to chain bikes.",Dormant parking
+participant11,canopy,More greenery? Trees reducing pollution by 8%,Trees
+participant11,biodiversity,Layered something. Biodiversity. Different organisms using different levels.,Layers
+participant11,sponge,Spongy grids. Rain water collects in 30cm of gravel and soil ,Grids
+participant2,residents,"500 businesses
+40 community
+recommendation notebooks
+",Small Businesses 
+participant2,traffic,"Main avenue
+Bicycle bells and cyclists 
+full accessibility
+30 kilometres ",Bicycles
+participant2,greenery,"no room for parking
+car that hasn't been moved in weeks
+40%",Pavement 
+participant2,canopy,planning,room
+participant2,biodiversity,"creating a system
+for biodiversity
+butterflies, trees and wildflowers ",Nature
+participant2,sponge,"Depaving the pavement 
+for water to run, prevent flooding
+ten bathtubs of water ",Water
